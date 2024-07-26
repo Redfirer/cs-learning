@@ -16,7 +16,7 @@
 >
 > 详细查看  git log
 >
-> 穿梭回历史版本 git reset --hard reflog版本号
+> 穿梭回历史版本 git reset --hard 版本号
 >
 > 查看当前分支  git branch -v
 >
